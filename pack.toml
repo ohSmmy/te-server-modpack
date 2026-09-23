@@ -4,7 +4,7 @@ name = "TE Server"
 mods = [
     {title = "Fusion Connected Blocks",side = "client",added = "2026-09-22 14:00",type = "resourcepack"},
     {title = "Connected Glass",side = "both",added = "2026-09-22 14:00"},
-    {title = "Complementary Shaders - Unbound",side = "client",added = "2026-09-22 14:00",type = "shader"},
+    {title = "Complementary Shaders - Unbound",side = "client",added = "2026-09-22 14:00",version = "r5.9.3",type = "shader"},
     {title = "Fusion Block Transitions",side = "client",added = "2026-09-22 14:02",type = "resourcepack"},
     {title = "Sodium",side = "client",added = "2026-09-22 14:16"},
     {title = "Iris Shaders",side = "client",added = "2026-09-22 14:17"},
