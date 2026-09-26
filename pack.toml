@@ -102,4 +102,5 @@ mods = [
     {title = "PlayerRevive",side = "both",added = "2026-09-24 10:26"},
     {title = "Sophisticated Storage",side = "both",added = "2026-09-25 22:46"},
     {title = "RE:Constructed Wands",side = "both",added = "2026-09-26 16:16"},
+    {title = "Polymorph+",side = "both",added = "2026-09-26 16:31"},
 ]
