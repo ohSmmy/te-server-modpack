@@ -69,7 +69,7 @@ mods = [
     {title = "Integrated Dynamics",side = "both",added = "2026-09-27 21:17"},
     {title = "Integrated Tunnels",side = "both",added = "2026-09-27 21:17"},
     {title = "Integrated Terminals",side = "both",added = "2026-09-27 21:17"},
-    {title = " Integrated Crafting",side = "both",added = "2026-09-27 21:17"},
+    {title = "Integrated Crafting",side = "both",added = "2026-09-27 21:17"},
     {title = "Integrated Scripting",side = "both",added = "2026-09-27 21:17"},
     {title = "Integrated REST",side = "both",added = "2026-09-27 21:17"},
     {title = "Integrated NBT",side = "both",added = "2026-09-27 21:17"},
@@ -84,4 +84,6 @@ mods = [
     {title = "Crawl",side = "both",added = "2026-09-27 21:17"},
     {title = "Serene Seasons",side = "both",added = "2026-09-27 21:17"},
     {title = "Cold Sweat",side = "both",added = "2026-09-27 21:17"},
+    {title = "Ender's Delight",side = "both",added = "2026-09-27 21:23"},
+    {title = "Cuisine Delight",side = "both",added = "2026-09-27 21:23"},
 ]
