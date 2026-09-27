@@ -93,4 +93,5 @@ mods = [
     {title = "L2 Hostility",side = "both",added = "2026-09-27 22:23"},
     {title = "Rechiseled",side = "both",added = "2026-09-27 22:23"},
     {title = "FTB Chunks (NeoForge)",side = "both",added = "2026-09-27 22:23",platform = "curseforge",cf_ref = "ftb-chunks-forge",cf_file_id = "8791113",cf_filename = "ftb-chunks-neoforge-2101.1.22.jar"},
+    {title = "FTB Library (NeoForge)",side = "both",added = "2026-09-27 22:28",platform = "curseforge",cf_ref = "ftb-library-forge",cf_file_id = "8858846",cf_filename = "ftb-library-neoforge-2101.1.36.jar"},
 ]
