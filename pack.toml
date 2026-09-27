@@ -24,4 +24,5 @@ mods = [
     {title = "YUNG's Better Nether Fortresses",side = "server",added = "2026-09-27 17:38"},
     {title = "YUNG's Better End Island",side = "server",added = "2026-09-27 17:38"},
     {title = "YUNG's Cave Biomes",side = "both",added = "2026-09-27 19:38"},
+    {title = "YUNG's Extras",side = "server",added = "2026-09-27 20:10"},
 ]
