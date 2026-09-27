@@ -105,4 +105,7 @@ mods = [
     {title = "CreateBetterFps",side = "client",added = "2026-09-27 23:39"},
     {title = "Entity Culling",side = "client",added = "2026-09-27 23:39"},
     {title = "More Culling",side = "client",added = "2026-09-27 23:39"},
+    {title = "Create: Numismatics",side = "both",added = "2026-09-27 23:59"},
+    {title = "Create Numismatics: Villager Currency",side = "both",added = "2026-09-27 23:59"},
+    {title = "PlayerRevive",side = "both",added = "2026-09-27 23:59"},
 ]
