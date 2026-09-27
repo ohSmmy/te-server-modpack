@@ -23,5 +23,4 @@ mods = [
     {title = "YUNG's Better Witch Huts",side = "server",added = "2026-09-27 17:38"},
     {title = "YUNG's Better Nether Fortresses",side = "server",added = "2026-09-27 17:38"},
     {title = "YUNG's Better End Island",side = "server",added = "2026-09-27 17:38"},
-    {title = "Unusual End",side = "both",added = "2026-09-27 17:38"},
 ]
