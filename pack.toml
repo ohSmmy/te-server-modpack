@@ -109,4 +109,5 @@ mods = [
     {title = "PlayerRevive",side = "both",added = "2026-09-27 23:59"},
     {title = "L_Ender's Cataclysm",side = "both",added = "2026-09-28 00:20"},
     {title = "Bosses'Rise",side = "both",added = "2026-09-28 00:20"},
+    {title = "Serene Seasons",side = "both",added = "2026-09-28 01:18"},
 ]
