@@ -86,4 +86,11 @@ mods = [
     {title = "Cold Sweat",side = "both",added = "2026-09-27 21:17"},
     {title = "Ender's Delight",side = "both",added = "2026-09-27 21:23"},
     {title = "Cuisine Delight",side = "both",added = "2026-09-27 21:23"},
+    {title = "Realistic Bees",side = "both",added = "2026-09-27 22:23"},
+    {title = "Hostile Mobs Improve Over Time",side = "both",added = "2026-09-27 22:23"},
+    {title = "Guard Villagers",side = "both",added = "2026-09-27 22:23"},
+    {title = "Illager Invasion",side = "both",added = "2026-09-27 22:23"},
+    {title = "L2 Hostility",side = "both",added = "2026-09-27 22:23"},
+    {title = "Rechiseled",side = "both",added = "2026-09-27 22:23"},
+    {title = "FTB Chunks (NeoForge)",side = "both",added = "2026-09-27 22:23",platform = "curseforge",cf_ref = "ftb-chunks-forge",cf_file_id = "8791113",cf_filename = "ftb-chunks-neoforge-2101.1.22.jar"},
 ]
