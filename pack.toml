@@ -1,0 +1,27 @@
+name = "TE Server"
+
+[mods]
+mods = [
+    {title = "TaCZ Tweaks",side = "both",added = "2026-09-27 17:38"},
+    {title = "[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port",side = "both",added = "2026-09-27 17:38"},
+    {title = "The Hordes",side = "both",added = "2026-09-27 17:38"},
+    {title = "Biomes O' Plenty",side = "both",added = "2026-09-27 17:38"},
+    {title = "Tectonic",side = "both",added = "2026-09-27 17:38"},
+    {title = "Incendium Legacy",side = "both",added = "2026-09-27 17:38"},
+    {title = "Formations Nether",side = "server",added = "2026-09-27 17:38"},
+    {title = "Formations Overworld",side = "server",added = "2026-09-27 17:38"},
+    {title = "Towns and Towers",side = "both",added = "2026-09-27 17:38"},
+    {title = "End Remastered",side = "both",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Caves",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Bridges",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Dungeons",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Mineshafts",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Strongholds",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Desert Temples",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Jungle Temples",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Ocean Monuments",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Witch Huts",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better Nether Fortresses",side = "server",added = "2026-09-27 17:38"},
+    {title = "YUNG's Better End Island",side = "server",added = "2026-09-27 17:38"},
+    {title = "Unusual End",side = "both",added = "2026-09-27 17:38"},
+]
