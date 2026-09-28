@@ -4,7 +4,6 @@ name = "TE Server"
 mods = [
     {title = "TaCZ Tweaks",side = "both",added = "2026-09-27 17:38"},
     {title = "[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port",side = "both",added = "2026-09-27 17:38"},
-    {title = "The Hordes",side = "both",added = "2026-09-27 17:38"},
     {title = "Biomes O' Plenty",side = "both",added = "2026-09-27 17:38"},
     {title = "Tectonic",side = "both",added = "2026-09-27 17:38"},
     {title = "Incendium Legacy",side = "both",added = "2026-09-27 17:38"},
@@ -112,4 +111,6 @@ mods = [
     {title = "Serene Seasons",side = "both",added = "2026-09-28 01:18"},
     {title = "Dynamic Crosshair",side = "client",added = "2026-09-28 10:14"},
     {title = "Quick Skin",side = "both",added = "2026-09-28 22:57"},
+    {title = "Zombie Apocalypse Addon",side = "both",added = "2026-09-28 23:58"},
+    {title = "Corpse",side = "both",added = "2026-09-28 23:58"},
 ]
