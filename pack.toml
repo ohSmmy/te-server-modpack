@@ -111,4 +111,5 @@ mods = [
     {title = "Bosses'Rise",side = "both",added = "2026-09-28 00:20"},
     {title = "Serene Seasons",side = "both",added = "2026-09-28 01:18"},
     {title = "Dynamic Crosshair",side = "client",added = "2026-09-28 10:14"},
+    {title = "Quick Skin",side = "both",added = "2026-09-28 22:57"},
 ]
