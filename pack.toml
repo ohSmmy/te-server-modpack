@@ -89,9 +89,6 @@ mods = [
     {title = "Illager Invasion",side = "both",added = "2026-09-27 22:23"},
     {title = "L2 Hostility",side = "both",added = "2026-09-27 22:23"},
     {title = "Rechiseled",side = "both",added = "2026-09-27 22:23"},
-    {title = "FTB Library (NeoForge)",side = "both",added = "2026-09-27 22:42",platform = "curseforge",cf_ref = "ftb-library-forge",cf_file_id = "8858846",cf_filename = "ftb-library-neoforge-2101.1.36.jar"},
-    {title = "FTB Teams (NeoForge)",side = "both",added = "2026-09-27 22:42",platform = "curseforge",cf_ref = "ftb-teams-forge",cf_file_id = "8724782",cf_filename = "ftb-teams-neoforge-2101.1.11.jar"},
-    {title = "FTB Chunks (NeoForge)",side = "both",added = "2026-09-27 22:42",platform = "curseforge",cf_ref = "ftb-chunks-forge",cf_file_id = "8791113",cf_filename = "ftb-chunks-neoforge-2101.1.22.jar"},
     {title = "Create",side = "both",added = "2026-09-27 23:09"},
     {title = "Create Aeronautics",side = "both",added = "2026-09-27 23:09"},
     {title = "Create Aeronautics: Gadgets & Gizmos",side = "both",added = "2026-09-27 23:09"},
@@ -113,4 +110,6 @@ mods = [
     {title = "Quick Skin",side = "both",added = "2026-09-28 22:57"},
     {title = "Zombie Apocalypse Addon",side = "both",added = "2026-09-28 23:58"},
     {title = "Corpse",side = "both",added = "2026-09-28 23:58"},
+    {title = "Xaero's Minimap",side = "both",added = "2026-09-29 00:12"},
+    {title = "Xaero's World Map",side = "both",added = "2026-09-29 00:12"},
 ]
