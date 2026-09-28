@@ -101,7 +101,6 @@ mods = [
     {title = "Entity Culling",side = "client",added = "2026-09-27 23:39"},
     {title = "More Culling",side = "client",added = "2026-09-27 23:39"},
     {title = "Create: Numismatics",side = "both",added = "2026-09-27 23:59"},
-    {title = "Create Numismatics: Villager Currency",side = "both",added = "2026-09-27 23:59"},
     {title = "PlayerRevive",side = "both",added = "2026-09-27 23:59"},
     {title = "L_Ender's Cataclysm",side = "both",added = "2026-09-28 00:20"},
     {title = "Bosses'Rise",side = "both",added = "2026-09-28 00:20"},
@@ -112,4 +111,5 @@ mods = [
     {title = "Corpse",side = "both",added = "2026-09-28 23:58"},
     {title = "Xaero's Minimap",side = "both",added = "2026-09-29 00:12"},
     {title = "Xaero's World Map",side = "both",added = "2026-09-29 00:12"},
+    {title = "VillagersPlus",side = "both",added = "2026-09-29 00:26"},
 ]
