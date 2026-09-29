@@ -112,4 +112,6 @@ mods = [
     {title = "Xaero's Minimap",side = "both",added = "2026-09-29 00:12"},
     {title = "Xaero's World Map",side = "both",added = "2026-09-29 00:12"},
     {title = "VillagersPlus",side = "both",added = "2026-09-29 00:26"},
+    {title = "FPS Reducer",side = "client",added = "2026-09-29 14:24"},
+    {title = "Create: Copycats+",side = "both",added = "2026-09-29 14:24"},
 ]
