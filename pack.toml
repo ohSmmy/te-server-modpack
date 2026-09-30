@@ -116,4 +116,5 @@ mods = [
     {title = "Create: Copycats+",side = "both",added = "2026-09-29 14:24"},
     {title = "Quark",side = "both",added = "2026-09-30 11:34"},
     {title = "Open Parties and Claims",side = "both",added = "2026-09-30 11:34"},
+    {title = "Polymorph",side = "both",added = "2026-09-30 21:21"},
 ]
