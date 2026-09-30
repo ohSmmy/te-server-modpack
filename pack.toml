@@ -114,4 +114,6 @@ mods = [
     {title = "VillagersPlus",side = "both",added = "2026-09-29 00:26"},
     {title = "FPS Reducer",side = "client",added = "2026-09-29 14:24"},
     {title = "Create: Copycats+",side = "both",added = "2026-09-29 14:24"},
+    {title = "Quark",side = "both",added = "2026-09-30 11:34"},
+    {title = "Open Parties and Claims",side = "both",added = "2026-09-30 11:34"},
 ]
