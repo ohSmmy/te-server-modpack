@@ -107,7 +107,6 @@ mods = [
     {title = "Serene Seasons",side = "both",added = "2026-09-28 01:18"},
     {title = "Dynamic Crosshair",side = "client",added = "2026-09-28 10:14"},
     {title = "Quick Skin",side = "both",added = "2026-09-28 22:57"},
-    {title = "Zombie Apocalypse Addon",side = "both",added = "2026-09-28 23:58"},
     {title = "Corpse",side = "both",added = "2026-09-28 23:58"},
     {title = "Xaero's Minimap",side = "both",added = "2026-09-29 00:12"},
     {title = "Xaero's World Map",side = "both",added = "2026-09-29 00:12"},
